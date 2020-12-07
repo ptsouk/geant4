@@ -1,0 +1,2 @@
+cmake -DCMAKE_INSTALL_PREFIX=/home/panos/projects/geant4.10.07-install /home/panos/Repos/geant4/ -DGEANT4_USE_SYSTEM_EXPAT=OFF
+make -j4 VERBOSE=1
